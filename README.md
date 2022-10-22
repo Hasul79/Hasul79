@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Hasmik Minasyan</h1>
 <h3 align="center">Frontend developer from Armenia</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasul79&label=Profile%20views&color=0e75b6&style=flat" alt="hasul79" /> </p>
 
@@ -13,10 +13,16 @@
 
 - 👯 I’m looking to collaborate on [Node.js-User-Authentication__Password-Login](https://github.com/Hasul79/Node.js-User-Authentication__Password-Login)
 
+- 👨‍💻 All of my projects are available at [Hasul79](Hasul79)
+
+- 📫 How to reach me **hasmikminasyan.1979@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/hasmik-minasyan-1266b5ab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hasmik-minasyan-1266b5ab" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/hasmikminamd4n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hasmikminamd4n" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/user4417ts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user4417ts" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@hasmikminasyan.1979" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@hasmikminasyan.1979" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/hasmikminamd4n/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="hasmikminamd4n/" height="30" width="40" /></a>
 <a href="https://discord.gg/Հասմիկ Մինասյան#7277" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Հասմիկ Մինասյան#7277" height="30" width="40" /></a>
 </p>
@@ -29,4 +35,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hasul79&show_icons=true&locale=en" alt="hasul79" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hasul79&" alt="hasul79" /></p>
-
