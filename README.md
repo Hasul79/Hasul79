@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on [Node.js-User-Authentication__Password-Login](https://github.com/Hasul79/Node.js-User-Authentication__Password-Login)
 
-- 👨‍💻 All of my projects are available at [Hasul79](Hasul79)
+- 👨‍💻 All of my projects are available at https://github.com/Hasul79
 
 - 📫 How to reach me **hasmikminasyan.1979@gmail.com**
 
