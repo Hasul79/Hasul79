@@ -50,8 +50,4 @@
   <img src="https://profile-counter.glitch.me/hasul79/count.svg" />
 </p>
 
-<div align="center">
-  <a href="https://hasul79.github.io/hasul79/">
-  <img  src="https://github.com/hasul79/hasul79/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
+
