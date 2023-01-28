@@ -38,11 +38,11 @@
 <!-- [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only) -->
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hasul79&show_icons=true&locale=en&layout=compact" alt="hasul79" /></p> 
 
- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hasul79&show_icons=true&locale=en" alt="hasul79" /></p>  
+ 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hasul79&" alt="hasul79" /></p>
 
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hasul79&show_icons=true&locale=en" alt="hasul79" /></p>  
 
 <p align="center"> 
   Visitor count<br>
