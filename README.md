@@ -50,4 +50,4 @@
 </p>
 
 ## My Contribution snake
-![Contribution snake example](https://github.com/<USERNAME>/<USERNAME>/blob/output/github-contribution-grid-snake.svg)
+![Contribution snake example](https://github.com/hasul79/hasul79/blob/output/github-contribution-grid-snake.svg)
