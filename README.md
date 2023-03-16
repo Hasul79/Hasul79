@@ -49,5 +49,4 @@
   <img src="https://profile-counter.glitch.me/hasul79/count.svg" />
 </p>
 
-## My Contribution snake
-![Contribution snake example](https://github.com/hasul79/hasul79/blob/output/github-contribution-grid-snake.svg)
+
