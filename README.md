@@ -36,8 +36,8 @@
 
 <!--    [![Top Langs](https://github-readme-stats.vercel.app/api?username=hasul79&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Hasul79/github-readme-stats)    -->
 [![Hasmik's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=hasul79&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/hasul79/github-readme-stats#gh-light-mode-only)
- <p><img align="left" src="[https://github-readme-stats.vercel.app/api/top-langs?username=hasul79&show_icons=true&locale=en&layout=compact](https://github-readme-stats.vercel.app/api/top-langs?username=hasul79&show_icons=true&locale=en&layout=compact&card_width=240&hide_border=true&langs_count=10&exclude_repo=github-readme-stats,anuraghazra.github.io
-)" alt="hasul79" /></p> 
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hasul79&show_icons=true&locale=en&layout=compact&card_width=240&hide_border=true&langs_count=10&exclude_repo=github-readme-stats,anuraghazra.github.io" alt="hasul79" /></p>
+
 
  
 
